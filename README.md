@@ -261,18 +261,6 @@ Do not upload to GitHub.
 
 ---
 
-## `.gitignore`
-Defines files Git should ignore.
-
-Example:
-
-```plaintext
-node_modules/
-.env
-```
-
----
-
 ## `constants.js`
 Stores reusable application constants.
 
@@ -303,24 +291,6 @@ Example:
 npm start
 npm run dev
 ```
-
----
-
-## `package-lock.json`
-Locks dependency versions.
-
-Purpose:
-- Ensure consistent installation across devices
-
----
-
-## `README.md`
-Project documentation.
-
-Contains:
-- Installation guide
-- API usage
-- Project explanation
 
 ---
 
